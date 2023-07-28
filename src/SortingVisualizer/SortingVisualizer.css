@@ -1,0 +1,17 @@
+#container{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* position: absolute;
+    bottom: 50px; */
+    margin: auto;
+    padding-top: 2rem;
+    
+}
+.bars{
+    background-color: rgb(87, 160, 211);
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+    width: 4px;
+}
